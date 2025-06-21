@@ -44,6 +44,23 @@
 
 ## Задание 3
 
+Настроил алерты в каждой панели.
+Пример:
+
+![image](https://github.com/user-attachments/assets/c2293239-ab50-41c1-8d4d-f1e7a6157f31)
+
+Настроил notification channel
+
+![image](https://github.com/user-attachments/assets/0b436b47-39ab-47d0-916a-6bdef407eceb)
+
+Пример алертов:
+
+![image](https://github.com/user-attachments/assets/f35871da-5165-4820-b127-9d936373d0e1)
+
+Итоговый дашборд:
+
+![image](https://github.com/user-attachments/assets/4e4c3d34-d652-49bc-8674-af20266ef624)
+
 
 ## Задание 4
 
