@@ -64,5 +64,6 @@
 
 ## Задание 4
 
+Ссылка на JSON файл - (https://github.com/vladmgb/HW-Grafana/blob/main/my_dashboard.json)
 
 
